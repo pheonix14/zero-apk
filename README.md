@@ -82,9 +82,6 @@ This project is released for **personal and educational use only**. It is not af
 
 - **Developer**: [pheonix14](https://github.com/pheonix14)
 - **Built with**: Jetpack Compose, Kotlin, Android SDK
-- **UI Inspiration**: PlayStation 5, Xbox Dashboard, Windows 11, Nothing OS 3.5
-- **Icons**: Material Design Icons (Google)
-
 ---
 
 *Zero Launcher — built for fun, not profit. No data is collected. See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for details.*
