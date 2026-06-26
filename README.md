@@ -72,57 +72,6 @@ A premium, console-inspired Android home screen launcher with a stunning glassmo
 
 ---
 
-## 🛠️ Building from Source
-
-Requirements:
-- Android Studio (latest)
-- Android SDK 36
-- Java 17
-- Kotlin
-
-```bash
-git clone https://github.com/pheonix14/project-zero
-cd project-zero
-./gradlew assembleRelease
-```
-
-The signed APK will be at `app/build/outputs/apk/release/app-release.apk`
-
----
-
-## 📁 Project Structure
-
-```
-app/src/main/java/com/example/projectzero/
-├── MainActivity.kt          # Entry point, launcher intent-filter
-├── Navigation.kt            # Page routing & lock screen logic
-├── ui/
-│   ├── home/
-│   │   ├── HomeScreen.kt        # Main home screen orchestrator
-│   │   ├── Windows11HomeScreen.kt # Default portrait skin
-│   │   ├── LandscapeHomeScreen.kt # Console dashboard landscape
-│   │   ├── WallpaperEngine.kt   # Wallpaper rendering system
-│   │   ├── ThemeEngine.kt       # Skin/theme application
-│   │   └── WidgetEngine.kt      # Home screen widgets
-│   ├── lockscreen/          # Lock screen & AOD UI
-│   ├── drawer/              # App drawer
-│   ├── navbar/              # Notification bar
-│   └── onboarding/          # First-run permission setup
-├── overlay/
-│   ├── ZeroOverlayService.kt    # Foreground overlay manager
-│   ├── VolumeOverlay.kt         # Custom volume panel
-│   ├── RecentAppsOverlay.kt     # Task switcher overlay
-│   └── GestureNavOverlay.kt     # Floating nav pill
-├── settings/
-│   ├── SettingsManager.kt       # All preference storage
-│   ├── SettingsScreen.kt        # Main settings UI
-│   ├── WallpaperSettingsScreen.kt
-│   └── ...
-└── skin/                    # Skin loader & built-in skins
-```
-
----
-
 ## 📝 License
 
 This project is released for **personal and educational use only**. It is not affiliated with Microsoft, PlayStation, Nintendo, Xbox, Nothing Technology, or any other brand referenced in the UI.
