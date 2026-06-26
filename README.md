@@ -74,7 +74,7 @@ A premium, console-inspired Android home screen launcher with a stunning glassmo
 
 ## 📝 License
 
-This project is released for **personal and educational use only**. It is not affiliated with Microsoft, PlayStation, Nintendo, Xbox, Nothing Technology, or any other brand referenced in the UI.
+This project is released for **personal and educational use only**. It is not affiliated with any brand referenced in the Ui.
 
 ---
 
