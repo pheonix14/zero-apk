@@ -5,8 +5,8 @@
 A premium, console-inspired Android home screen launcher with a stunning glassmorphic UI, built entirely for fun and personal expression. Zero Launcher turns your phone into a PS5 / Xbox / PC gaming dashboard with rich customization, custom overlays, and a full-blown skin engine.
 
 > [!IMPORTANT]
-> **🚀 LATEST RELEASE: ZERO 2 V1.3.0 (Redmi HyperOS & One UI Clean Redesign)**
-> Download the official optimized build: [`ZERO 2 V1.3.apk`](ZERO%202%20V1.3.apk) | Release Notes: [`RELEASE_NOTES_V1.3.md`](RELEASE_NOTES_V1.3.md)
+> **🚀 LATEST RELEASE: ZERO 2 V1.4.0 (PS5 Next-Gen Console OS Update)**
+> Download the official optimized build: [`ZERO 2 V1.4.apk`](ZERO%202%20V1.4.apk) | Release Notes: [`RELEASE_NOTES_V1.4.md`](RELEASE_NOTES_V1.4.md)
 
 ---
 
