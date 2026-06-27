@@ -2,7 +2,9 @@
 
 > **Made by [pheonix14](https://github.com/pheonix14) · github.com/pheonix14**
 
-A premium, console-inspired Android home screen launcher with a stunning glassmorphic UI, built entirely for fun and personal expression. Zero Launcher turns your phone into a PS5 / Xbox / PC gaming dashboard with rich customization, custom overlays, and a full-blown skin engine.
+> [!IMPORTANT]
+> **🚀 NEW RELEASE AVAILABLE: ZERO 2 V1.2.0**
+> Download the official optimized build: [`ZERO 2 V1.2.apk`](ZERO%202%20V1.2.apk) | Release Notes: [`RELEASE_NOTES_V1.2.md`](RELEASE_NOTES_V1.2.md)
 
 ---
 
