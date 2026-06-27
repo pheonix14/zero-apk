@@ -1,8 +1,11 @@
-# 🚀 Zero Launcher v9.1
+# 🚀 Zero Launcher
 
 > **Made by [pheonix14](https://github.com/pheonix14) · github.com/pheonix14**
 
 A premium, console-inspired Android home screen launcher with a stunning glassmorphic UI, built entirely for fun and personal expression. Zero Launcher turns your phone into a PS5 / Xbox / PC gaming dashboard with rich customization, custom overlays, and a full-blown skin engine.
+
+> [!NOTE]
+> **Zero 2 Status**: **Zero 2** is currently under active development. All Zero 2 releases and assets in this repository represent experimental development builds.
 
 ---
 
@@ -61,7 +64,7 @@ A premium, console-inspired Android home screen launcher with a stunning glassmo
 
 ## 📦 Installation
 
-1. Download `zero v9.1.apk` from the releases section
+1. Download `Zero` launcher APK from the releases section
 2. Enable **Install from Unknown Sources** in Android settings
 3. Install the APK
 4. Set **Zero Launcher** as your default home app when prompted
@@ -74,7 +77,7 @@ A premium, console-inspired Android home screen launcher with a stunning glassmo
 
 ## 📝 License
 
-This project is released for **personal and educational use only**. It is not affiliated with any brand referenced in the Ui.
+This project is released for **personal and educational use only**. It is not affiliated with any brand referenced in the UI.
 
 ---
 
@@ -82,6 +85,7 @@ This project is released for **personal and educational use only**. It is not af
 
 - **Developer**: [pheonix14](https://github.com/pheonix14)
 - **Built with**: Jetpack Compose, Kotlin, Android SDK
+
 ---
 
 *Zero Launcher — built for fun, not profit. No data is collected. See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for details.*
