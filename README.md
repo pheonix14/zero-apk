@@ -3,8 +3,8 @@
 > **Made by [pheonix14](https://github.com/pheonix14) · github.com/pheonix14**
 
 > [!IMPORTANT]
-> **🚀 NEW RELEASE AVAILABLE: ZERO 2 V1.3.0 (Redmi HyperOS & One UI Clean Redesign)**
-> Download the official optimized build: [`ZERO 2 V1.3.apk`](ZERO%202%20V1.3.apk) | Release Notes: [`RELEASE_NOTES_V1.3.md`](RELEASE_NOTES_V1.3.md)
+> **🚀 NEW RELEASE AVAILABLE: ZERO 2 V1.4.0 (PS5 Next-Gen Console OS Update)**
+> Download the official optimized build: [`ZERO 2 V1.4.apk`](ZERO%202%20V1.4.apk) | Release Notes: [`RELEASE_NOTES_V1.4.md`](RELEASE_NOTES_V1.4.md)
 
 ---
 
